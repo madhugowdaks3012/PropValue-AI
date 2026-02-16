@@ -90,7 +90,7 @@ PropValue-AI/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PropValue-AI.git
+git clone [https://github.com/madhugowdaks3012/PropValue-AI.git
 cd PropValue-AI
 ```
 
@@ -178,32 +178,6 @@ The app provides suggestions based on:
 
 ---
 
-## 💼 Resume Description (You Can Copy This)
-
-**PropValue AI – Smart Home Price Predictor**  
-Developed a machine learning-based real estate price prediction system using Linear Regression and deployed it using Streamlit. Implemented feature preprocessing, investment recommendation logic, and interactive UI to simulate real-world property valuation.
-
----
-
-## 📢 LinkedIn Launch Post (Optional)
-
-🚀 Excited to share my new ML project — PropValue AI!  
-
-Built a machine learning-powered home price prediction system using Python, Scikit-learn, and Streamlit.  
-
-The model predicts property value based on location, size, bedrooms, and property age — and also gives investment suggestions!  
-
-This project helped me strengthen:
-• Regression modeling  
-• Feature engineering  
-• ML deployment  
-• Interactive UI building  
-
-More ML projects coming soon 🔥  
-
-#MachineLearning #DataScience #Python #Streamlit #RealEstate
-
----
 
 ## 🌟 Deployment Option
 
